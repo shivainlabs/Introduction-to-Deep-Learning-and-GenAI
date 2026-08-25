@@ -1,2 +1,2 @@
-![Generator and Discriminator](/images/image.png)
+![Generator and Discriminator](../images/image.png)
 
