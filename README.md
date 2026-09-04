@@ -1,0 +1,2 @@
+- Week 06 : GAN 
+- Week 07 : RNN
